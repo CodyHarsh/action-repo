@@ -1,3 +1,2 @@
 # action-repo
-#Testing 1
-#Testing2
+#Testing for merge and PR
